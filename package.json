@@ -1,0 +1,23 @@
+{
+    "name": "homebridge-platform-rcswitch",
+    "version": "0.0.1",
+    "description": "rcswitch plugin for homebridge: https://github.com/nfarina/homebridge",
+    "license": "ISC",
+    "keywords": [
+        "homebridge-plugin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rainlake/homebridge-platform-rcswitch.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rainlake/homebridge-platform-rcswitch/issues"
+    },
+    "engines": {
+        "node": ">=0.12.0",
+        "homebridge": ">=0.2.0"
+    },
+    "dependencies": {
+        "moment": ">=2.4.0"
+    }
+}
