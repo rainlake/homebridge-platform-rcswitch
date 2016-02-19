@@ -1,5 +1,5 @@
 # homebridge-platform-rcswitch
-[![NPM Version](https://img.shields.io/npm/v/homebridge-platform-wemo.svg)](https://www.npmjs.com/package/homebridge-platform-rcswitch)
+[![NPM Version](https://img.shields.io/npm/v/homebridge-platform-rcswitch.svg)](https://www.npmjs.com/package/homebridge-platform-rcswitch)
 
 RCSwitch plugin for the awesome  [Homebridge](https://github.com/nfarina/homebridge) project.
 
@@ -70,6 +70,7 @@ Credit goes to
 - 433 control codes ported from [433Utils](https://github.com/ninjablocks/433Utils)
 - [rfoutlet project](https://github.com/timleland/rfoutlet) and his [blog post](https://timleland.com/wireless-power-outlets/)
 - [http://scottfrees.com/](http://scottfrees.com/) for his great tutorial for asynchronous call.
+- inspired by [homebridge-platform-wemo] https://github.com/rudders/homebridge-platform-wemo
 
 # License
 
