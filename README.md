@@ -9,9 +9,10 @@ RCSwitch plugin for the awesome  [Homebridge](https://github.com/nfarina/homebri
 
 # Installation
 
-1. Install homebridge using: npm install -g homebridge
-2. Install this plugin using: npm install -g homebridge-platform-rcswitch
-3. Update your configuration file. See the sample below.
+1. Install libuv-dev using: `apt-get install libuv-dev`
+2. Install homebridge using: `npm install -g homebridge`
+3. Install this plugin using: `npm install -g homebridge-platform-rcswitch`
+4. Update your configuration file. See the sample below.
 
 # Configuration
 
